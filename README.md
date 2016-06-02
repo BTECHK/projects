@@ -1,2 +1,2 @@
-# projects
-repository for various projects 
+# hello-wordl
+intro repository 
